@@ -1,0 +1,1 @@
+*AFFICHE*CONSOLE*|*REVEILLE*TOI*|*HDMI*==chmod 666 /dev/tty1 && echo -ne "\033[9;0]" >/dev/tty1 && say "Fait."
